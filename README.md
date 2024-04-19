@@ -1,3 +1,4 @@
 - Hiya i am Apple
-- I code in JavaScript and LuaU
+- I code in JavaScript, HTML, LuaU
+- Begginer in C++
 - and what now no idea
