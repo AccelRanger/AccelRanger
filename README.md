@@ -1,4 +1,5 @@
-- Hiya i am Apple
-- I code in JavaScript, HTML, LuaU
+# Hiya i am Apple
+- I code in JavaScript, HTML, Lua, LuaU, C
 - Begginer in C++
-- and what now no idea
+
+- 
